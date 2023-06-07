@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,iBAIG,SAAW,CACZ,sCAGC,UAAW","file":"main.6ee4e9e6.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.TodoInfo {\n  &__title {\n    color: #f00;\n  }\n\n  &--completed &__title {\n    color: #080;\n  }\n}\n"]}
